@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexander@noronha.asia
+	name = Alexander Noronha
